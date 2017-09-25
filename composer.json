@@ -1,11 +1,10 @@
 {
-    "name": "mattketmo/uuid-2x-bridge",
+    "name": "amad/uuid-2x-bridge",
     "description": "Allow to use ramsey/uuid:3.x even if one of your dependencies requires version 2.x",
     "license": "MIT",
     "authors": [
         {
-            "name": "Matthieu Moquet",
-            "email": "matthieu@moquet.net"
+            "name": "Ahmad Samiei"
         }
     ],
     "autoload": {
